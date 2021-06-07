@@ -1,24 +1,64 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Blog App
 
-Things you may want to cover:
+> This project was prepared following the tutorials on the Getting Started page on Rail sGuide
 
-* Ruby version
+![screenshot](./app_screenshot.png)
 
-* System dependencies
+Additional description about the project and its features.
 
-* Configuration
+## Built With
 
-* Database creation
+- Ruby
+- Ruby on Rails
 
-* Database initialization
+## Getting Started
 
-* How to run the test suite
+### Prerequisites
 
-* Services (job queues, cache servers, search engines, etc.)
+- Node
+- Rails
+- Ruby
+- Yarn
+- Text editor
+- Git
 
-* Deployment instructions
+### To get a local copy up and running simply follow the next step.
 
-* ...
+Clone this repository on to your local PC
+- Click on the `Code` green button
+- By the right end of the read-only input containing the repository link click the clipboard icon to copy the link
+- In your local PC, open your terminal in the folder you would like to clone the repository into
+- Clone the repository with the command: `git clone (copied link)`; like so: `git clone https://github.com/TedLivist/blog-app.git`
+- After the clone, type in the command `cd blog-app` to access the directory on the terminal
+
+## Authors
+
+👤 **Teddy-Livingstone Ememandu**
+
+- [Github](https://github.com/TedLivist)
+- [Twitter](https://twitter.com/iamxted)
+- [LinkedIn](https://linkedin.com/in/tememandu)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
