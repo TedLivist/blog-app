@@ -41,11 +41,11 @@ Clone this repository on to your local PC
 - [Twitter](https://twitter.com/iamxted)
 - [LinkedIn](https://linkedin.com/in/tememandu)
 
-👤 **Author2**
+👤 **Zulfizar Abdumurodova**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- [GitHub](https://github.com/AbdumurodovaZulfizar)
+- [Twitter](https://twitter.com/Zulfiza70357085)
+- [LinkedIn](https://linkedin.com/in/zulfizarabdumurodova/)
 
 ## 🤝 Contributing
 
