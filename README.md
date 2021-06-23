@@ -2,9 +2,7 @@
 
 # Blog App
 
-> This project was prepared following the tutorials on the Getting Started page on Rail sGuide
-
-![screenshot](./app_screenshot.png)
+> This project was prepared following the tutorials on the Getting Started page on Rails Guide
 
 Additional description about the project and its features.
 
